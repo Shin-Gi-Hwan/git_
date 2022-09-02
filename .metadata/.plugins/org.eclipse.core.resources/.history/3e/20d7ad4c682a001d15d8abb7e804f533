@@ -1,0 +1,15 @@
+package localhost;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController("/helloworld")
+public class Hellowrold {
+	@GetMapping
+	public String sayHelloworld() {
+		return "Helloworld";
+	}
+	
+
+
+}

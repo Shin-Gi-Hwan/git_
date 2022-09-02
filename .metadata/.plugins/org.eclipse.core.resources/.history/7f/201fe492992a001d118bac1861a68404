@@ -1,0 +1,5 @@
+package localhost.controller;
+
+public class FileUploadController {
+
+}

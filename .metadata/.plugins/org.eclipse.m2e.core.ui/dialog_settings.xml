@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\admin\Desktop\Work\fileupload"/>
+			<item value="C:\Users\admin\Desktop\Work\spring-git\gs-uploading-files"/>
+			<item value="C:\Users\admin\Desktop\Work\spring-git\gs-consuming-rest"/>
+			<item value="C:\Users\admin\Desktop\Work\spring-git\gs-rest-service"/>
+			<item value="C:\Users\admin\Desktop\Work\jpasample"/>
+			<item value="C:\Users\admin\Desktop\Work\spring-git\gs-accessing-data-jpa"/>
+			<item value="C:\Users\admin\Desktop\Work\web-sample"/>
+			<item value="C:\Users\admin\Desktop\Work\spring-git\gs-maven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

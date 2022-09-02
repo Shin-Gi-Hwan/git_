@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\admin\\Desktop\\Work\\spring-git\\gs-accessing-data-jpa\\.git;C\:\\Users\\admin\\Desktop\\Work\\spring-git\\gs-consuming-rest\\.git;C\:\\Users\\admin\\Desktop\\Work\\spring-git\\gs-uploading-files\\.git;C\:\\Users\\admin\\Desktop\\Work\\spring-git\\gs-rest-service\\.git;C\:\\Users\\admin\\Desktop\\Work\\spring-git\\gs-maven\\.git;
+GitRepositoriesView.GitDirectories.relative=spring-git\\gs-accessing-data-jpa\\.git;spring-git\\gs-consuming-rest\\.git;spring-git\\gs-uploading-files\\.git;spring-git\\gs-rest-service\\.git;spring-git\\gs-maven\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
